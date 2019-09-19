@@ -1,5 +1,5 @@
 'use strict'
-
+const sign = require('./exercises/sign');
 /*
  * Create the `sameSign` function that takes 2 numbers as arguments and check
  * if they both have the same sign
@@ -8,6 +8,7 @@
  */
 
 // Your code :
+const sameSign = (a, b) => sign(a) === sign(b)
 
 //* Begin of tests
 const assert = require('assert')
