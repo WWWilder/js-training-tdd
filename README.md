@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/WildCodeSchool/js-training-tdd.svg?branch=master)](https://travis-ci.org/WildCodeSchool/js-training-tdd)
+[![Build Status](https://travis-ci.org/WWWilder/js-training-tdd.svg?branch=master)](https://travis-ci.org/WWWilder/js-training-tdd)
 
 # JS Training with TDD
 
